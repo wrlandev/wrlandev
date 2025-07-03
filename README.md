@@ -3,6 +3,12 @@
 **`Desenvolvedor Back-End`**
 
 ###
+Estudante de Análise e Desenvolvimento de Sistemas. Possuo experiência prática na construção de sistemas de
+microsserviços com Java e Spring, aplicando conceitos de comunicação síncrona, assíncrona e
+conteinerização.
+
+### 🤖 Linguagens e Tecnologias
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
